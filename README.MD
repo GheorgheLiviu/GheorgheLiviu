@@ -15,4 +15,3 @@ If you're interested in collaborating or just want to chat about coding, feel fr
 
 📧 Email: Gheorghe.liviu02@gmail.com
 
-Thanks for visiting my GitHub profile! 😄
