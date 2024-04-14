@@ -5,7 +5,7 @@ I'm a passionate developer with a strong foundation in Python and a growing inte
 ## About Me
 
 - 🌱 I'm currently learning Java to expand my programming skills.
-- 💻 Python is my strong suit, and I enjoy solving problems with it.
+- 💻 Java is my strong suit, and I enjoy solving problems with it.
 - 👨‍💻 I'm always looking for exciting projects to work on and contribute to.
 - 📧 You can reach me via email: Gheorghe.liviu02@gmail.com.
 
